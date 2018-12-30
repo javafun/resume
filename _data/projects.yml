@@ -2,15 +2,124 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Adairs
+  role: EPiServer 9 Commerce
+  duration: 2015 &mdash; 2017
+  url: "https://www.adairs.com.au"
+  description: Large complex ecommerce re-platforming project from Drupal to EPiServer Commerce, involves the following platforms integration.<ul class="resume-item-list"><li>Dynamics AX (ERP)</li><li>IntelligentRich</li><li>Salesforce Marketing Cloud (ExactTarget)</li><li>WrightExpress (Giftcard payment solution)</li><li>Feefo integration (Product review system)</li><li>DataTools QAS (Address lookup and validation)</li><li>Paypal payment integration</li><li>eWay payment integration</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: The Smith Family
+  role: Sitecore 8.0
+  duration: 2017 &mdash; 2017
+  url: "https://www.thesmithfamily.com.au"
+  description: Set up continuous integration and continuous delivery using VSTS and Octopus on Azure cloud on a large Sitecore 8 solution.
+
+# Springfield Community Outreach Group
+- project: BT's Adviser View
+  role: Adobe CQ 5.6
+  duration: 2015 &mdash; 2015
+  url: "http://www.btadviserview.com.au"
+  description: My first CQ/AEM project based on CQ 5.6.1. <ul class="resume-item-list"><li>Developed a new template & youtube component</li><li>Code refactor & clean up</li><li>Fixed custom importer issues for importing adviser data to CQ5</li><li>Amended & added new features to the existing importer</li><li>Optimised the search performance</li><li>Managed both UAT and Live deployment (Author & Publish)</li><li>Documented the learning & structure of the current AEM project</li><li>Helped sysadmin to set up staging AEM environment (Author, Publish, Apache and dispather) for internal QA</li></ul>
+
+- project: BT GoInvest (BTGI)
+  role: ASP.NET 5 MVC, Bespoke
+  duration: 2015 &mdash; 2015
+  url: "https://managedaccounts.bt.com.au/GoInvest"
+  description: Financial investment product that built on top of the latest front-end (Angular 1.2) and backend (Asp.NET MVC, WebApi) technologies.
+
+
+- project: Daffodil Day
+  role: EPiServer 7+
+  duration: 2015 &mdash; 2015
+  url: "https://www.daffodilday.com.au"
+  description: Yet another site developed on top of EPiServer 7.x. Webmarkupmin has been used for minifying the html, the traffic has been reduced drastically. We got 83 of 100 score from Google Speed Insights for the most complex homepage.
+
+- project: Elevit - Pregnancy Multivitamin‎
+  role: Teamsite
+  duration: 2014 &mdash; 2014
+  url: "https://www.elevit.com.au"
+  description: Build on top of Teamsite platform with Zend Framework and Webkit.
+  
+- project: Relay For Life
+  role: EPiServer 7.5+
+  duration: 2014 &mdash; 2014
+  url: "https://www.cancercouncil.org.au/relayforlife/"
+  description: Build on top of EPiServer 7.5 platform using MVC architecture. Blackbaud fundraising service integraion
+  
+- project: Asaleocare
+  role: EPiServer 7.5+
+  duration: 2014 &mdash; 2014
+  url: "http://www.asaleocare.com"
+  description: Build on top of EPiServer 7.5 platform using MVC architecture.
+
+- project: Brokenwood
+  role: EPiServer Commerce 1R3
+  duration: 2014 &mdash; 2014
+  url: "https://www.brokenwood.com.au"
+  description: Estimate the current site major issues fix. Digest the current architecture and refine/re-architect the current solution
+
+- project: Cancer Council's Morning Tea Tools
+  role: Drupal 7
+  duration: 2014 &mdash; 2014
+  url: "http://morningteatools.com.au/"
+  description: The second Drupal project I led and delivered successfully.
+
+- project: Thinking Of You
+  role: Drupal 7
+  duration: 2013 &mdash; 2013
+  url: "http://thinkingofyou.com.au"
+  description: My third led drupal project, build using Single Page App (SPA) framework.
+
+- project: Charter Hall
+  role: EPiServer 7+
+  duration: 2013 &mdash; 2013
+  url: "https://www.charterhall.com.au"
+  description: Build on top of EPiServer 7 platform using MVC architecture.
+
+
+- project: Equal Choice
+  role: EPiServer 7+
+  duration: 2013 &mdash; 2013
+  url: "https://www.equalchoice.com.au"
+  description: The first Australia EPiServer 7 MVC architecture project.Check this out http://www.campaignbrief.com/2013/10/orchard-rolls-out-a-new-digita.html
+  
+- project: Sage Club
+  role: Druapl 7
+  duration: 2013 &mdash; 2013
+  url: "http://www.sageappliancesclub.co.uk"
+  description: My first drupal cms site. Acquia cloud integration with existing Bamboo CI Server. Research lots of Drupal popular modules and help orchard set up the Drupal development template.
+  
+- project: Shave or Save it
+  role: ASP.NET MVC Bespoke
+  duration: 2012 &mdash; 2012
+  url: "https://siosi-showcase.orchard.net.au/"
+  description: 
+
+- project: Campbells kitchen
+  role: EPiServer 6 
+  duration: 2012 &mdash; 2012
+  url: "http://www.campbellskitchen.com.au"
+  description:  Build on top of EPiServer 6 CMS Platform using Webform.
+
+  
+- project: VetsAustralia
+  role: ASP.NET MVC Bespoke
+  duration: 2012 &mdash; 2012
+  url: "https://www.vetsaustralia.com.au"
+  description: Build using ASP.NET MVC 3 Framework + WCF + Salesforce Integration + EFront - eLearning Platform integration
+    
+- project: Smartmail Pro
+  role: ASP.NET Webform Bespoke + Telerik
+  duration: 2010 &mdash; 2010
+  url: "http://www.smartmailpro.com"
+  description: SAAS service using SOA architecture running on AWS EC2 Cloud platform, provide RESTful to third party to integrate to Smartmail system.
+    
+
+
+
+
+
+  
+
+  
