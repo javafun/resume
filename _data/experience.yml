@@ -3,47 +3,47 @@
 - company: Empired Ltd
   position: Platform Architect
   duration: May, 2017 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: 
 
 # Senior EPiServer Consultant
 - company: Isobar
   position: Senior EPiServer Consultant
   duration:  Oct, 2015 &mdash; Apr, 2017
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Liaise with the client to keep them informed of progress and to make relevant decisions.</li><li>Lead the technical direction and provide product conceptualization to implementation.</li><li>Deliver cost estimates for the design and develop phase in partnership with business analysts, project management, subject matter experts and solution providers for projects to provide accurate and timely cost estimates.</li><li>Provide high level technical solution definition and design during the implementation phase with the goal of providing reliable, stable and operationally sound applications that meet business requirements or support by means of coaching and mentoring onshore and offshore developers.</li><li>Consult to the wider IT community to provide technical and/or domain advice and expertise to improve quality and robustness of solutions and maintain/support application systems and/or development.</li></ul>
 
 
 # Technical Architect
 - company: Orchard
   position: Technical Architect
   duration:   Dec, 2012  &mdash; Oct, 2015
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Deliver cost estimates for the design and develop phase in partnership with business analysts, project management, subject matter experts and solution providers for projects to provide accurate and timely cost estimates.</li><li>Consult to the wider IT community to provide technical and/or domain advice and expertise to improve quality and robustness of solutions and maintain/support application systems and/or development.</li><li>Provide input into the planning of future application and maintenance requirement.</li><li>Provide vendor support by means of coaching and mentoring onshore and offshore developers.</li><li>Provide high level technical solution definition and design during the implementation phase with the goal of providing reliable, stable and operationally sound applications that meet business requirements.</li></ul>
 
   # Senior Software Developer
 - company: Orchard
   position: Senior Software Developer
   duration:   Apr, 2011  &mdash; Dec, 2012
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
-
+  summary: <ul class="resume-item-list"><li>Lead developer across a number of diverse and significant projects for Orchards most influential client.</li><li>Complete MCPD upgrade from 2.0 to 4.0.</li><li>Improve orchard internal development framework to help to smash the small sites.</li><li>Set up and improve the continuous integration.</li><li>Mentor junior developer.</li><li>Perform the technical costing in the scoping phase of projects.</li><li>Implementation of CMS driven and bespoke ASP.NET C# applications based on the Orchard framework.</li></ul>
 
   # Senior .NET Developer
 - company: Jericho
   position: Senior .NET Developer
   duration:   Jun, 2008  &mdash; Apr, 2011
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <p>Successful migration of mission critical SaaS application - SmartmaiPro from C/S to B/S architecture. Project completed on time and budget.</p><p>Lead the custom development team to deliver several big sites and help some big customers integrate their products with our SaaS platform, e.g. Telecom, Sorted, Metservice etc.</p>
+
 
 
   # Web Consultant & Senior Software Developer
 - company: Total Quality Solutions Ltd & Telecom NZ
   position: Web Consultant & Senior Software Developer
   duration:   Oct, 2006  &mdash; Jun, 2008
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I was originally appointed as Web Consultant contractor role to help TQS re-design and improve their ecommerce application architecture, I accepted permanent offer from TQS.
 
 
     # MCDBA Tutor
 - company: Cornell Institute of Business and Technology
   position: MCDBA Tutor
   duration:   Apr, 2006  &mdash; Jul, 2006
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Fix term contract while I was completing my Postgraduate Diploma in Computer Science.
 
 
     # Senior .NET Developer
