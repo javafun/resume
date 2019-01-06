@@ -1,11 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Regulator Portal - Australia Securities and Investments Commission (ASIC)
+- project: Regulator Portal - (ASIC)
   role: EPiServer 10
   duration: 2017 &mdash; 2018
   url: "https://regulatoryportal.asic.gov.au"
-  description: Large complex ecommerce re-platforming project from Drupal to EPiServer Commerce, involves the following platforms integration.<ul class="resume-item-list"><li>Dynamics AX (ERP)</li><li>IntelligentRich</li><li>Salesforce Marketing Cloud (ExactTarget)</li><li>WrightExpress (Giftcard payment solution)</li><li>Feefo integration (Product review system)</li><li>DataTools QAS (Address lookup and validation)</li><li>Paypal payment integration</li><li>eWay payment integration</li></ul>
+  description: Large digital transformation enterprise project.<ul class="resume-item-list"><li>•	Delivering high level solution designs and translating high level business requirements into technology architectures.</li><li>Earlier customer engagement and value propositions.</li><li>Managing the overall quality of customization, software architecture and technical installation of implemented projects.</li><li>System gap analysis and recommendations.</li><li>Lead EpiServer CMS portal development and successfully integrated with Windows 2016 OpenID (ODIC) Identity.</li><li>Enable all react components in-page editing in EPiServer CMS.</li></ul>
 
 # jazznotes.io
 - project: Adairs
