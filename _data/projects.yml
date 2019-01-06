@@ -13,7 +13,7 @@
   role: Sitecore 8.0
   duration: 2017 &mdash; 2017
   url: "https://www.thesmithfamily.com.au"
-  description: Set up continuous integration and continuous delivery using VSTS and Octopus on Azure cloud on a large Sitecore 8 solution.
+  description: Set up continuous integration (CI) and continuous delivery (CD) using VSTS and Octopus on Azure cloud on a large Sitecore 8 solution.
 
 # Springfield Community Outreach Group
 - project: BT's Adviser View
