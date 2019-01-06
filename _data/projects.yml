@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: Adairs
-  role: EPiServer 9 Commerce
+  role: EPiServer Commerce 9
   duration: 2015 &mdash; 2017
   url: "https://www.adairs.com.au"
   description: Large complex ecommerce re-platforming project from Drupal to EPiServer Commerce, involves the following platforms integration.<ul class="resume-item-list"><li>Dynamics AX (ERP)</li><li>IntelligentRich</li><li>Salesforce Marketing Cloud (ExactTarget)</li><li>WrightExpress (Giftcard payment solution)</li><li>Feefo integration (Product review system)</li><li>DataTools QAS (Address lookup and validation)</li><li>Paypal payment integration</li><li>eWay payment integration</li></ul>
