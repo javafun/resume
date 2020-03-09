@@ -9,8 +9,8 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Vincent Y"
+# resume_avatar:                  "true"
+resume_name:                    "Vincent"
 resume_title:                   "Technologist"
 
 # used for the contact button in _layouts/resume.html
