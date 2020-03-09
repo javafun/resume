@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-# resume_avatar:                  "true"
+resume_avatar:                  "true"
 resume_name:                    "Vincent Y"
-# resume_title:                   "Technical Architect"
+resume_title:                   "Technical evangelist"
 
 # used for the contact button in _layouts/resume.html
 # resume_contact_email:           "mscsharp@gmail.com"
