@@ -1,8 +1,15 @@
 # Jobs
-# Platform Architect
-- company:  Episerver
-  position: Senior Product Specialist
-  duration: Feb, 2019 &mdash; Present
+
+# Lead Consultant 
+- company:  Optimizely (formerly Episerver)
+  position: Lead Consultant
+  duration: Jan, 2022 &mdash; Current
+  summary: 
+
+# Senior Consultant 
+- company:  Optimizely (formerly Episerver)
+  position: Senior Consultant
+  duration: Feb, 2019 &mdash; Dec 2021
   summary: 
   
 # Platform Architect
@@ -32,7 +39,7 @@
 
   # Senior .NET Developer
 - company: Jericho
-  position: Senior .NET Developer
+  position: Senior Software Engineer
   duration:   Jun, 2008  &mdash; Apr, 2011
   summary: <p>Successful migration of mission critical SaaS application - SmartmaiPro from C/S to B/S architecture. Project completed on time and budget.</p><p>Lead the custom development team to deliver several big sites and help some big customers integrate their products with our SaaS platform, e.g. Telecom, Sorted, Metservice etc.</p>
 
